@@ -1,9 +1,9 @@
 name: Performer Tracker Links
-description: Adds links to Empornium tracker for performer name tag
-version: 0.0.1
+description: Adds links to torrent trackers for performer in various locations (performer page / cards)
+version: 0.0.2
 url: https://github.com/alph4twelve/stash-plugins
 ui:
   requires:
     - StashUserscriptLibrary
   javascript:
-    - empornium-links.js
+    - tracker-links.js
