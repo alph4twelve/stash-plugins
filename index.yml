@@ -2,7 +2,7 @@
   name: TrackerLinks
   metadata:
     description: Adds links to Empornium tracker for performer name tag
-  version: 0.0.2
+  version: 0.0.3
   date: 2024-05-30 5:35:00
   requires:
     - StashUserscriptLibrary
