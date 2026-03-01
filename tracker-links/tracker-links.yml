@@ -1,6 +1,6 @@
 name: Performer Tracker Links
 description: Adds links to torrent trackers for performer in various locations (performer page / cards)
-version: 0.0.2
+version: 0.0.3
 url: https://github.com/alph4twelve/stash-plugins
 ui:
   requires:
